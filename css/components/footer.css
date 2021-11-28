@@ -1,0 +1,18 @@
+.footer {
+  background-color: #2c2b2b;
+  padding: 80px 0;
+
+  display: flex;
+  justify-content: center;
+}
+
+.footer-social a {
+  color: #1cdd87;
+  font-size: 32px;
+  margin: 0 8px;
+}
+
+.footer p {
+  font-size: 24px;
+  color: #6B6C6C
+}

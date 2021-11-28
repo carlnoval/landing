@@ -1,0 +1,16 @@
+.container {
+  /* border: 1px solid red; */
+}
+
+.container.workflow {
+  text-align: center;
+  margin: 24px auto;
+}
+
+.container.workflow > h2 {
+  margin-bottom: 16px;
+}
+
+.container.footer-info {
+  text-align: center;
+}
